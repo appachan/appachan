@@ -1,4 +1,4 @@
-![GitHub Stats Card](https://github-stats-extended.vercel.app/api?username=appachan&show_icons=true)
+![GitHub Stats Card](https://github-stats-extended.vercel.app/api?username=appachan&show_icons=true&theme=dark_github&rank_icon=github&bg_color=30,0d1117,1f2a44)
 <!--
 ### Hi there 👋
 -->
